@@ -64,3 +64,10 @@ Driven by a passion for robotics, automation, and electronic hardware design.
 <div align="center">
   <i>"Building the future of locomotion, one joint at a time."</i>
 </div>
+
+# 📚 IMPORTANT LINKS 
+## (Google Drive)
+All non-technical documents, reference materials, and media are stored on Google Drive:
+* [📁 Root folder containing all data](paste_main_drive_folder_link_here)
+* [📘 Books and research materials](paste_books_drive_link_here)
+* [🎬 Demo videos](paste_videos_drive_link_here)
